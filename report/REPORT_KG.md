@@ -111,4 +111,4 @@ Chưa lưu được ba ảnh đúng quy cách vào `report/img/`: yêu cầu bà
 
 ## Trạng thái nộp
 
-Đã hoàn tất code, ontology, `--check`, benchmark và báo cáo. Chưa có ảnh Neo4j lưu trong `report/img/`; cũng chưa thể tạo tên repo cá nhân/link VLearn vì thiếu họ tên và MSSV, và chưa có thao tác push/nộp được yêu cầu trong workspace hiện tại.
+Đã hoàn tất code, ontology, `--check`, benchmark và báo cáo; các file hiện có đã được push lên repo cá nhân [K4-DAY19-NguyenMinhThinh-2A202602556](https://github.com/thinhkp/K4-DAY19-NguyenMinhThinh-2A202602556). Chưa có ảnh Neo4j lưu trong `report/img/` và chưa nộp link lên VLearn.
